@@ -4,5 +4,6 @@ Also, I kind of like the code I wrote =) Seems clear and so I'm not afraid of pu
 I'm currently unable to find where I found those two sounds included from, but I remember they were in some sound library licensed under CC or such. After some time I'll probably add sound licensing information =) 
 User that scanbuttond runs under has to be in groups "scanner" and "audio".
 All the files have to be put in /etc/scanbuttond/ directory.
+Script depends on scanimage (sane-utils), convert (imagemagick), aplay (alsa-utils) and pybssort (https://gist.github.com/CRImier/7330722) 
 
 Feel free to contact me on crimier@yandex.ru if something's wrong.
